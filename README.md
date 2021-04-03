@@ -1,2 +1,1 @@
 # dengobot-locale
-DengoBot Locale 
