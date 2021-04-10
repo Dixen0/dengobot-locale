@@ -1,1 +1,1 @@
-# dengobot-locale
+# lyxbot-locale
