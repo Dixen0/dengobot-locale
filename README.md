@@ -1,1 +1,1 @@
-# lyxbot-locale
+# ProSecurity-locale
